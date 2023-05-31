@@ -74,7 +74,7 @@ As a user, I can:
   <label for="rating">Rating: </label>
   <input type="number" name="rating" id="new-rating" />
   <label for="new-comment">Comment: </label>
-  <textarea name="new-comment" id="new-comment"></textarea>
+  <textarea name="new-comment" id="newComment"></textarea>
   <input type="submit" value="Update" />
 </form>
 ```
